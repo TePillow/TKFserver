@@ -1,6 +1,6 @@
 [
     {
-        "name": "xxx的xxx服务器",
+        "name": "Pillow's Server",
         "serverAddress": "http://47.83.1.120:6969",
         "newPort": "6970"
     },
