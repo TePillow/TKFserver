@@ -1,7 +1,7 @@
 [
     {
         "name": "Pillow's Server",
-        "serverAddress": "http://47.83.1.120:6969",
+        "serverAddress": "http://39.174.71.147:17473",
         "newPort": "6970"
     },
     // 上面的name后引号里的内容你随便写
