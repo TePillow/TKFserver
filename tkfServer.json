@@ -2,7 +2,7 @@
     {
         "name": "Pillow's Server",
         "serverAddress": "http://39.174.71.147:17473",
-        "newPort": "6970"
+        "newPort": "17735"
     },
     // 上面的name后引号里的内容你随便写
     // serverAddress服务器地址中的 1.2.3.4 改成你的服务器公网IP
